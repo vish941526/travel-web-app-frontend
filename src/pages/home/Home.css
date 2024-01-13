@@ -1,0 +1,14 @@
+.main {
+   margin: 11rem 2rem 2rem 2rem;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+.gap-largr {
+   gap: 3rem;
+}
+
+.text-alert {
+   margin: 3px 0;
+   text-align: center;
+}
